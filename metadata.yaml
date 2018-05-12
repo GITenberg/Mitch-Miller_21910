@@ -1,0 +1,41 @@
+_repo: Mitch-Miller_21910
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sloan, John
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '24963'
+    url: http://www.gutenberg.org/2009/agents/24963
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Masters, Edgar Lee
+    aliases:
+    - Masters, E. L. (Edgar Lee)
+    - Ford, Webster
+    birthdate: 1868
+    deathdate: 1950
+    gutenberg_agent_id: '584'
+    url: http://www.gutenberg.org/2009/agents/584
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Lee_Masters
+description: Named after the author's best friend from childhood, Masters's first
+  (1920) novel is a charming tale of two boys growing up in the Mississippi River
+  Valley in 1900. Mitch sets out to relive Tom Sawyer in what one critic called the
+  best boy's story of the generation.
+gutenberg_issued: '2007-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21910'
+  lccn: '20017009'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Boys -- Fiction'
+title: Mitch Miller
+url: http://www.gutenberg.org/ebooks/21910
